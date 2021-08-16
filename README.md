@@ -23,6 +23,17 @@
      <a href="https://www.linkedin.com/in/michell-correia-b10617194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </p>
 </div>
 
+##
+
+## Mais sobre mim?
+
+Estou me aperfeiçoando para ser um Desenvolvedor Backend Java.
+
+Quando tive curiosidade sobre o mundo da programação, comecei a tentar me familiarizar com algumas tecnologias e linguagens, como PHP e Ruby, mas o estudo passou a ser um hobby quando comecei a programar em Java. Posso dizer com segurança que passei a amar programação depois que tive um domínio dessa linguagem. Continuarei estudando para poder me tornar um expert.
+
+Essa linguagem me abriu os olhos para o interesse que tenho de construir coisas e alterá-las com idéias que antes só existiam na minha cabeça. Quem sabe um dia serei bom o suficiente para pensar e construir algo que mude o mundo. 😅
+
+Atualmente estou estudando Java (com todas as minhas forças) e melhorando minha familiaridade com Git. Todos os meus estudos são e serão através de cursos completos em plataformas de ensino. Estou extremamente motivado pelo interesse que descobri na área, adquirir esses conhecimentos será minha prioridade #1.  Em breve seguirei estudando tecnologias e ferramentas que podem complementar os conhecimentos que já possuo, como noSql (Cassandra), Spring, API rest e Docker. 
 
 
 
