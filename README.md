@@ -33,7 +33,7 @@ Quando tive curiosidade sobre o mundo da programação, comecei a tentar me fami
 
 Essa linguagem me abriu os olhos para o interesse que tenho de construir coisas e alterá-las com idéias que antes só existiam na minha cabeça. Quem sabe um dia serei bom o suficiente para pensar e construir algo que mude o mundo. 😅
 
-Atualmente estou estudando Java (com todas as minhas forças) e melhorando minha familiaridade com Git. Todos os meus estudos são e serão através de cursos completos em plataformas de ensino. Estou extremamente motivado pelo interesse que descobri na área, adquirir esses conhecimentos será minha prioridade #1.  Em sequencia seguirei estudando tecnologias e ferramentas que podem complementar os conhecimentos que já possuo, Spring, API rest, noSQL e Solid. 
+Atualmente estou estudando Java (com todas as minhas forças) e melhorando minha familiaridade com Git. Todos os meus estudos são e serão através de cursos completos em plataformas de ensino. Estou extremamente motivado pelo interesse que descobri na área, adquirir esses conhecimentos será minha prioridade #1.  Em sequencia seguirei estudando tecnologias e ferramentas que podem complementar os conhecimentos que já possuo,como Spring, API rest, noSQL e Solid. 
 
 
 
