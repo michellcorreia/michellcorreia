@@ -35,10 +35,10 @@
 
 ## Mais sobre mim?
 
-Sou um Desenvolvedor Fullstack Java.
+Olá, sou Michell. Sou um Desenvolvedor Backend Java.
 
 Quando tive curiosidade sobre o mundo da programação, comecei a tentar me familiarizar com algumas tecnologias e linguagens, como PHP e Ruby, mas o estudo passou a ser um hobby quando comecei a programar em Java. Posso dizer com segurança que passei a amar programação depois que tive um domínio dessa linguagem. Continuarei estudando para poder me tornar um expert.
 
 Essa linguagem me abriu os olhos para o interesse que tenho de construir coisas e alterá-las com idéias que antes só existiam na minha cabeça. Quem sabe um dia serei bom o suficiente para pensar e construir algo que mude o mundo. 😅
 
-Atualmente estou estudando JSF com Primefaces. Todos os meus estudos são e serão através da prática no dia-a-dia e de cursos completos em plataformas de ensino. Estou extremamente motivado pelo interesse que descobri na área, adquirir esses conhecimentos será minha prioridade #1.
+Todos os meus estudos são e serão através da prática no dia-a-dia e de cursos completos em plataformas de ensino. Estou extremamente motivado pelo interesse que descobri na área, adquirir esses conhecimentos será minha prioridade #1.
